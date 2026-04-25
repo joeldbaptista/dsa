@@ -1,0 +1,12 @@
+# sample commands: <op> <key>
+insert apple
+insert banana
+insert cherry
+insert apple
+search apple
+search grape
+delete banana
+search banana
+delete banana
+insert grape
+search grape
